@@ -10,4 +10,4 @@ Milk Tracker is an offline application for managing milk sales, customers, order
 
 For questions, please contact:
 
-* [your-email@example.com](mailto:eanghelcev.work@gmail.com)
+* [eanghelcev.work@gmail.com](mailto:eanghelcev.work@gmail.com)
